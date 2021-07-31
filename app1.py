@@ -31,7 +31,7 @@ def multi_col(func,name):
 def page0():
     st.title('Python Developer Survey Analysis')
     st.image('scaled-python.jpeg')
-    st.success('This project is on Python Survey  ')
+    st.success('This project is on Python Survey Abhinav  ')
 
 def page1():
     st.title('Question and plots')
